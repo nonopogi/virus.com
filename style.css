@@ -1,0 +1,24 @@
+*{padding: 0;margin: 0;}
+.container{height: 100vh;
+            width: 100vw;
+            color: #444;
+            background: #ecbfb6;
+            text-align: center;padding-top: 250px;}
+.yes, .no{
+    padding-bottom: 150px;
+}
+            h2{font-size: 72;margin-bottom: 30px;}
+. a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+   }
+
+#no{color: blue;
+    border: 5px;
+    border-radius: 10px;
+    margin: 5px 10px;}
+#yes{color: blue; border:3px;
+    border-radius: 10px;
+    margin: 5px 10px;}
+img{height: 40px;width: 40px;}
